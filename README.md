@@ -1,1 +1,1 @@
-# Do_An_CSTTNT_Nam2_HK2
+# Sử dụng thuật toán CNN để nhận diện động vật
